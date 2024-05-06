@@ -14,8 +14,8 @@
 
 #include "limbo_test.h"
 
-#include "modules/limboai/bt/tasks/blackboard/bt_check_trigger.h"
-#include "modules/limboai/bt/tasks/bt_task.h"
+#include "../bt/tasks/blackboard/bt_check_trigger.h"
+#include "../bt/tasks/bt_task.h"
 
 namespace TestCheckTrigger {
 

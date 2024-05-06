@@ -14,8 +14,8 @@
 
 #include "limbo_test.h"
 
-#include "modules/limboai/bt/tasks/bt_task.h"
-#include "modules/limboai/bt/tasks/scene/bt_stop_animation.h"
+#include "../bt/tasks/bt_task.h"
+#include "../bt/tasks/scene/bt_stop_animation.h"
 
 #include "scene/animation/animation_player.h"
 #include "scene/main/window.h"

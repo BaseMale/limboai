@@ -14,8 +14,8 @@
 
 #include "limbo_test.h"
 
-#include "modules/limboai/bt/tasks/bt_task.h"
-#include "modules/limboai/bt/tasks/composites/bt_selector.h"
+#include "../bt/tasks/bt_task.h"
+#include "../bt/tasks/composites/bt_selector.h"
 
 namespace TestSelector {
 

@@ -14,8 +14,8 @@
 
 #include "limbo_test.h"
 
-#include "modules/limboai/bt/tasks/bt_task.h"
-#include "modules/limboai/bt/tasks/decorators/bt_repeat.h"
+#include "../bt/tasks/bt_task.h"
+#include "../bt/tasks/decorators/bt_repeat.h"
 
 namespace TestRepeat {
 

@@ -14,8 +14,8 @@
 
 #include "limbo_test.h"
 
-#include "modules/limboai/hsm/limbo_hsm.h"
-#include "modules/limboai/hsm/limbo_state.h"
+#include "../hsm/limbo_hsm.h"
+#include "../hsm/limbo_state.h"
 
 #include "core/object/object.h"
 #include "core/object/ref_counted.h"

@@ -13,10 +13,10 @@
 
 #include "limbo_test.h"
 
-#include "modules/limboai/blackboard/bb_param/bb_param.h"
-#include "modules/limboai/bt/tasks/blackboard/bt_check_var.h"
-#include "modules/limboai/bt/tasks/bt_task.h"
-#include "modules/limboai/util/limbo_utility.h"
+#include "../blackboard/bb_param/bb_param.h"
+#include "../bt/tasks/blackboard/bt_check_var.h"
+#include "../bt/tasks/bt_task.h"
+#include "../util/limbo_utility.h"
 #include "tests/test_macros.h"
 
 namespace TestCheckVar {

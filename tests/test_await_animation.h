@@ -14,9 +14,9 @@
 
 #include "limbo_test.h"
 
-#include "modules/limboai/blackboard/blackboard.h"
-#include "modules/limboai/bt/tasks/bt_task.h"
-#include "modules/limboai/bt/tasks/scene/bt_await_animation.h"
+#include "../blackboard/blackboard.h"
+#include "../bt/tasks/bt_task.h"
+#include "../bt/tasks/scene/bt_await_animation.h"
 
 #include "core/os/memory.h"
 #include "scene/animation/animation_player.h"

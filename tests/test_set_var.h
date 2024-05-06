@@ -15,11 +15,11 @@
 #include "core/variant/variant.h"
 #include "limbo_test.h"
 
-#include "modules/limboai/blackboard/bb_param/bb_param.h"
-#include "modules/limboai/blackboard/bb_param/bb_variant.h"
-#include "modules/limboai/blackboard/blackboard.h"
-#include "modules/limboai/bt/tasks/blackboard/bt_set_var.h"
-#include "modules/limboai/bt/tasks/bt_task.h"
+#include "../blackboard/bb_param/bb_param.h"
+#include "../blackboard/bb_param/bb_variant.h"
+#include "../blackboard/blackboard.h"
+#include "../bt/tasks/blackboard/bt_set_var.h"
+#include "../bt/tasks/bt_task.h"
 #include "tests/test_macros.h"
 
 namespace TestSetVar {

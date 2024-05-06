@@ -17,7 +17,7 @@
 #include "core/object/ref_counted.h"
 #include "tests/test_macros.h"
 
-#include "modules/limboai/bt/tasks/bt_action.h"
+#include "../bt/tasks/bt_action.h"
 
 class CallbackCounter : public RefCounted {
 	GDCLASS(CallbackCounter, RefCounted);

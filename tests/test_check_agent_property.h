@@ -14,11 +14,11 @@
 
 #include "limbo_test.h"
 
-#include "modules/limboai/blackboard/bb_param/bb_variant.h"
-#include "modules/limboai/blackboard/blackboard.h"
-#include "modules/limboai/bt/tasks/bt_task.h"
-#include "modules/limboai/bt/tasks/scene/bt_check_agent_property.h"
-#include "modules/limboai/util/limbo_utility.h"
+#include "../blackboard/bb_param/bb_variant.h"
+#include "../blackboard/blackboard.h"
+#include "../bt/tasks/bt_task.h"
+#include "../bt/tasks/scene/bt_check_agent_property.h"
+#include "../util/limbo_utility.h"
 
 #include "core/os/memory.h"
 #include "core/variant/variant.h"
